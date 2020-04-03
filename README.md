@@ -4,7 +4,7 @@
 
 Submitted by: **Maika Marin**
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -30,6 +30,8 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+My gif:
+<img src='https://recordit.co/C31vloXFf4' />
 
 ## Notes
 
